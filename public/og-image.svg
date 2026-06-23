@@ -1,0 +1,40 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#FAF7F2"/>
+  
+  <!-- Blob top left -->
+  <path d="M-60,0 Q180,-30 300,120 Q420,270 210,420 Q60,510 -60,360 Z" fill="#E8DDD4" opacity="0.55"/>
+  <circle cx="90" cy="90" r="210" fill="none" stroke="#2D4A3E" stroke-width="2" opacity="0.45"/>
+  
+  <!-- Blob top right -->
+  <path d="M1260,0 Q1080,-30 960,130 Q840,290 1050,420 Q1200,500 1260,360 Z" fill="#E8DDD4" opacity="0.5"/>
+  <circle cx="1140" cy="100" r="230" fill="none" stroke="#2D4A3E" stroke-width="2" opacity="0.45"/>
+
+  <!-- Blob bottom left -->
+  <path d="M-60,630 Q150,660 270,540 Q390,420 180,330 Q30,270 -60,390 Z" fill="#E8DDD4" opacity="0.5"/>
+
+  <!-- Blob bottom right -->
+  <path d="M1260,630 Q1050,660 930,530 Q810,400 1020,320 Q1170,270 1260,390 Z" fill="#E8DDD4" opacity="0.55"/>
+  <path d="M1260,480 Q1140,440 1020,490 Q900,540 800,510" fill="none" stroke="#2D4A3E" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- Rose accent dot -->
+  <circle cx="600" cy="45" r="7" fill="#D4748F" opacity="0.4"/>
+
+
+
+
+  <!-- Name -->
+  <text x="600" y="330" font-family="Georgia, serif" font-size="90" fill="#1A2E27" text-anchor="middle" letter-spacing="-1">Aashna Patel</text>
+
+  <!-- Tagline -->
+  <text x="600" y="405" font-family="Georgia, serif" font-size="32" fill="#2D4A3E" text-anchor="middle" font-style="italic">Growth marketer with a builder's mindset.</text>
+
+  <!-- Divider line -->
+  <line x1="480" y1="445" x2="720" y2="445" stroke="#E8DDD4" stroke-width="1"/>
+
+  <!-- Tags -->
+  <text x="600" y="480" font-family="Georgia, serif" font-size="18" fill="#4A6458" text-anchor="middle" letter-spacing="4">GTM · GROWTH · MARKETING · PRODUCT</text>
+
+  <!-- URL -->
+  <text x="600" y="570" font-family="Georgia, serif" font-size="18" fill="#D4748F" text-anchor="middle" letter-spacing="2">aashnatpatel.com</text>
+</svg>
